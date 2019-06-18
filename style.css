@@ -1,0 +1,30 @@
+/* DONATION */
+.d100w{
+	width:99%!important;
+}
+.d70w{
+	width:69%!important;
+}
+.d60w{
+	width:59%!important;
+}
+.d50w{
+	width:49%!important;
+}
+.d40w{
+	width:39%!important;
+}
+.d30w{
+	width:29%!important;
+}
+.d25w{
+	width:24%!important;
+}
+.customAmount {
+	box-sizing: border-box;
+	padding-left:13%!important;
+	color:#fff;
+	font-size:23px!important;
+	background: rgba(255,255,255,.05) url(https://irp-cdn.multiscreensite.com/8ec3a15b/dms3rep/multi/dollar-sign.svg) 20px center no-repeat;
+    background-size: 14px 40px;
+}
