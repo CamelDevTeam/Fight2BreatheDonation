@@ -1,7 +1,7 @@
 
 <script src="https://checkout.stripe.com/checkout.js"></script>
 <script>
-//Live Key - pk_live_RvcUC2kx0CIqNwX1CVMcCjoK
+
 //Sandbox Key - pk_test_Os9K96ObndnPKQUqgF06sMR4
 let handler = StripeCheckout.configure({
   key: 'pk_live_RvcUC2kx0CIqNwX1CVMcCjoK',
